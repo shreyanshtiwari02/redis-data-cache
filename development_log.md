@@ -13,6 +13,7 @@
 - Configured Redis connection factory
 - Set up Redis cache manager with custom serialization
 - Implemented cache configuration with TTL settings
+- Converted configuration from properties to YAML format
 
 ## Future Phases
 - Phase 3: Model and Repository Layer
